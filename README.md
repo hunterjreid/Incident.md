@@ -77,4 +77,4 @@
 - *Safeguard sensitive information and data integrity.*
 - *Enhance collaboration and communication during incidents.*
 
-**I'm not an expert in this field, and what follows is solely for educational purposes. It's important to note that this shouldn't be applied within a billion-dollar company.**
+**I'm an expert in this subject, and what follows is strictly educative. However, it is vital to highlight that this should not be used within a billion-dollar company.**
