@@ -69,22 +69,12 @@
 
 
 
-<H1>IncidentReady: <I>Enhancing Proficient Incident Response through Inclusive Resources and Strategies</I></H1> 
+<H1>Incident.md: <I>Enhancing Proficient Incident Response through Inclusive Resources and Strategies</I></H1> 
 
-*Note: The following is a highly detailed incident response plan outline for your company, referred to as "IncidentReady". This plan is designed to provide a comprehensive approach to incident response, ensuring your organization is prepared to effectively address cyber threats.*
-
-## 1. Introduction:
-Brief overview of IncidentReady's purpose and significance. Emphasis on the importance of incident response in today's cyber landscape. Explanation of the plan's structure and the various stages of incident response.
-
-## 2. Objectives and Goals:
-Clearly define the primary objectives of IncidentReady:
+*Note: I made this too:*
 - *Minimize the impact of cyber incidents on the organization.*
 - *Maintain business continuity during and after incidents.*
 - *Safeguard sensitive information and data integrity.*
 - *Enhance collaboration and communication during incidents.*
-Specify measurable goals for each objective, such as reduced downtime, faster recovery, and improved incident documentation.
-
-## 15. Glossary:
-Include a glossary of key terms and acronyms used throughout the plan to ensure clarity and consistency.
 
 **I'm not an expert in this field, and what follows is solely for educational purposes. It's important to note that this shouldn't be applied within a billion-dollar company.**
