@@ -69,9 +69,9 @@
 
 
 
-<H1>Incident.md: <I>Enhancing Proficient Incident Response through Inclusive Resources and Strategies</I></H1> 
+<H1>Incident.md:</H1> 
 
-*Note: I made this too:*
+*Hey! little note from me. I made this too:*
 - *Minimize the impact of cyber incidents on the organization.*
 - *Maintain business continuity during and after incidents.*
 - *Safeguard sensitive information and data integrity.*
